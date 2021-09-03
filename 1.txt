@@ -1,18 +1,19 @@
+
 dette her er GUNNER GRUNNER tekst og vi er på første linje
 
+test
+
+her skriver lotta også noget og det gunner også
 
 
-her skriver lotta også noget og det GRUNNER  også
 
-
-
-Det er skrevet af en anden og det står på linje 6. det er skrevet af GUNNER
+Det er skrevet af en anden og det står på linje 6. det er skrevet af gunner
 
 
 
 Nu vil jeg vise hvordan git merge automatisk.
 
-
+TEST anden gang
 
 vbcdbg
 sftygsdgdfgsrtwety
@@ -28,7 +29,7 @@ nu laver lotta lige arbejdet igen og det bliver det ikke mere ubegavet af
 
 
 
-
+test
 
 
 
@@ -40,7 +41,7 @@ fsdfsdf
 
 
 
-her skriver GUNNER  ligere noget mere fordi han er sådan en flik FULL BLOWN NINJA
+her skriver gunner ligere noget mere fordi han er sådan en flik dreng
 
 
 
