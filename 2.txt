@@ -1,5 +1,8 @@
-…
+<<<<<<< HEAD
+test
+=======
 LOTTA
+>>>>>>> lottasBranch
 
 ælsdkfjslædkf
 
