@@ -12,7 +12,7 @@ Det er skrevet af en anden og det står på linje 6. det er skrevet af gunner
 
 Nu vil jeg vise hvordan git merge automatisk.
 
-
+TEST anden gang
 
 vbcdbg
 sftygsdgdfgsrtwety
