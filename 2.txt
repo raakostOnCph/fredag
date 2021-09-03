@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 test
+=======
+LOTTA
+>>>>>>> lottasBranch
 
+ælsdkfjslædkf
+
+sdf
+sdf
+sdf
+sdf
+sdf
+sdf 
+
+
+LOTTA
 
 
 test

@@ -1,7 +1,11 @@
 
+<<<<<<< HEAD
 dette her er GUNNER GRUNNER tekst og vi er på første linje
 
 test
+=======
+LOTTA
+>>>>>>> lottasBranch
 
 her skriver lotta også noget og det gunner også
 
