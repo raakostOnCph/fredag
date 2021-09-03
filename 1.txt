@@ -3,19 +3,22 @@ det er skrevet på først linje
 
 
 
-Det er skrevet af en anden og det står på linje 6. det er skrevet latta
+
+Det er skrevet af en anden og det står på linje 6. det er skrevet af gunner
+
 
 
 Nu vil jeg vise hvordan git merge automatisk.
 
 
-rtertertewrtewrtert
-ertertertertertert
+
+vbcdbg
+sftygsdgdfgsrtwety
+fgdsfg
+rtuet
+yjrt
+yt
 erte
-rterterte
-rte
-rter
-te
 
 
 
