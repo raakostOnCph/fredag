@@ -3,7 +3,10 @@ det er skrevet på først linje
 
 
 
+Det er skrevet af en anden og det står på linje 6.
 
+
+Nu vil jeg vise hvordan git merge automatisk.
 
 
 
