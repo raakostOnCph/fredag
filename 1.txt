@@ -1,12 +1,14 @@
 det her er gunners tekst og vi er på første linje
 
 
+
 her skriver lotta også noget og det gunner også
+
 
 
 Det er skrevet af en anden og det står på linje 6. det er skrevet af gunner
 
-lotta er swagg
+
 
 Nu vil jeg vise hvordan git merge automatisk.
 
@@ -24,7 +26,7 @@ erte
 nu laver lotta lige arbejdet igen og det bliver det ikke mere ubegavet af
 
 
-sikker lotta styrre
+
 
 
 
